@@ -25,6 +25,7 @@ The homeworks are carried out by groups of students and this HW will include in 
 
 The repository is organised as follows:
 
+* `VisualGraph`: this folder contains the Graph of our model.
 * `code`: this folder contains the source code.
 * `results`: this folder contains the performance scores of the runs.
 * `slides`: this folder contains the slides used for presenting the conducted project.
