@@ -30,6 +30,9 @@ The repository is organised as follows:
 * `results`: this folder contains the performance scores of the runs.
 * `slides`: this folder contains the slides used for presenting the conducted project.
 
+### Dataset ###
+*[Dataset Link](https://www.kaggle.com/datasets/davidcariboo/player-scores)
+
 ### License ###
 
 All the contents of this repository are shared using the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
