@@ -30,6 +30,7 @@ The repository is organised as follows:
 * `results`: this folder contains the performance scores of the runs.
 * `slides`: this folder contains the slides used for presenting the conducted project.
 * `CSV: this foder contains the csv files of the dataset plus a folder inside called `output` which in turn contains the files resulted from the serialization process.
+* Please Note that some turtle files are larger than 100m so we had to upload them using lfs, so in order to view thesw files please do the following commands : 1- git lfs install. 2- git lfs pull.
 
 ### Dataset ###
 *[Dataset Link](https://www.kaggle.com/datasets/davidcariboo/player-scores)
