@@ -29,6 +29,7 @@ The repository is organised as follows:
 * `code`: this folder contains the source code.
 * `results`: this folder contains the performance scores of the runs.
 * `slides`: this folder contains the slides used for presenting the conducted project.
+* `CSV: this foder contains the csv files of the dataset plus a folder inside called `output` which in turn contains the files resulted from the serialization process.
 
 ### Dataset ###
 *[Dataset Link](https://www.kaggle.com/datasets/davidcariboo/player-scores)
