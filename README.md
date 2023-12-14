@@ -2,8 +2,8 @@
 
 |    Name      | Surname      | ID      |
 |:-----------: |:-------:     |---------|
-| Irfan Ullah  |  Khan        | 2054601 |
 |    Arwa      |  Fahoud      | 2109672 |
+| Irfan Ullah  |  Khan        | 2054601 |
 |zain ul abedin|zain ul abedin| 2006128 |
 
 # DataBase 2 (DB2) - Repository Template
