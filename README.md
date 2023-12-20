@@ -25,9 +25,11 @@ The homeworks are carried out by groups of students and this HW will include in 
 
 The repository is organised as follows:
 
+* `Analysis`: this folder contains some Analysis of football players and their market values.`.
 * `VisualGraph`: this folder contains the Graph of our model.
 * `code`: this folder contains the source code.
 * `results`: this folder contains the performance scores of the runs.
+* `queries`: this folder contains GraphDB queries.
 * `slides`: this folder contains the slides used for presenting the conducted project.
 * `CSV: this foder contains the csv files of the dataset plus a folder inside called `output` which in turn contains the files resulted from the serialization process.
 * Please Note that some turtle files are larger than 100m so we had to upload them using lfs, so in order to view thesw files please do the following commands : 1- git lfs install. 2- git lfs pull.
