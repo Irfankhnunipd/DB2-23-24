@@ -1,11 +1,3 @@
-# Group Members
-
-|    Name      | Surname      | ID      |
-|:-----------: |:-------:     |---------|
-|    Arwa      |  Fahoud      | 2109672 |
-| Irfan Ullah  |  Khan        | 2054601 |
-|zain ul abedin|zain ul abedin| 2006128 |
-
 # DataBase 2 (DB2) - Repository Template
 
 This repository is a template repository for the homework to be developed in the [DataBase 2](https://iiia.dei.unipd.it/education/database-2/) course.
