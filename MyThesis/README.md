@@ -1,4 +1,4 @@
-# DataBase 2 (DB2) - Repository Template
+# MSc Thesis - Repository
 
 This repository is a repository of my MSc thesis * [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), at the [University of Padua](https://www.unipd.it/en/), Italy.
 
