@@ -2,7 +2,7 @@
 
 This repository is a repository of my MSc thesis * [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), at the [University of Padua](https://www.unipd.it/en/), Italy.
 
-The homeworks are carried out by groups of students and this HW will include in few parts.
+The thesis are carried out by me.
     Part-1: Domain of project.
         a) Graph of the Model
         b) Create OWL file of the ontology
@@ -17,7 +17,7 @@ The repository is organised as follows:
 * `Analysis`: this folder contains some Analysis of football players and their market values.`.
 * `VisualGraph`: this folder contains the Graph of our model.
 * `code`: this folder contains the source code.
-* `results`: this folder contains the performance scores of the runs.
+* `results`: this folder contains the results of all the 6 models.
 * `queries`: this folder contains GraphDB queries.
 * `slides`: this folder contains the slides used for presenting the conducted project.
 * `CSV: this foder contains the csv files of the dataset plus a folder inside called `output` which in turn contains the files resulted from the serialization process.
