@@ -1,6 +1,6 @@
 # DataBase 2 (DB2) - Repository Template
 
-This repository is a template repository for the homework to be developed in the [DataBase 2](https://iiia.dei.unipd.it/education/database-2/) course.
+This repository is a repository of my MSc thesis * [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), [University of Padua](https://www.unipd.it/en/), Italy.
 
 The homeworks are carried out by groups of students and this HW will include in few parts.
     Part-1: Domain of project.
