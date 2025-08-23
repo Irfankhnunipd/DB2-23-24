@@ -2,12 +2,6 @@
 
 This repository is a repository of my MSc thesis * [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), at the [University of Padua](https://www.unipd.it/en/), Italy.
 
-The homeworks are carried out by groups of students and this HW will include in few parts.
-    Part-1: Domain of project.
-        a) Graph of the Model
-        b) Create OWL file of the ontology
-    Part-2: Data cleaning, ingestion and serialisation function (Using Python notebook)
-    Part-3: Write Queries on that data using GraphDB
 
 
 ### Organisation of the repository ###
