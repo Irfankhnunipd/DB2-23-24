@@ -1,6 +1,6 @@
-# DataBase 2 (DB2) - Repository Template
+# MSc Thesis - Repository
 
-This repository is a template repository for the homework to be developed in the [DataBase 2](https://iiia.dei.unipd.it/education/database-2/) course.
+This repository is a repository of my MSc thesis * [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), at the [University of Padua](https://www.unipd.it/en/), Italy.
 
 The homeworks are carried out by groups of students and this HW will include in few parts.
     Part-1: Domain of project.
@@ -9,9 +9,6 @@ The homeworks are carried out by groups of students and this HW will include in 
     Part-2: Data cleaning, ingestion and serialisation function (Using Python notebook)
     Part-3: Write Queries on that data using GraphDB
 
-*DataBase 2* is a course of the
-
-* [Master Degree in Computer Engineering](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) of the  [Department of Information Engineering](https://www.dei.unipd.it/en/), [University of Padua](https://www.unipd.it/en/), Italy.
 
 ### Organisation of the repository ###
 
