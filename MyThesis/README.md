@@ -11,7 +11,7 @@ The repository is organised as follows:
 * `Analysis`: this folder contains some Analysis of football players and their market values.`.
 * `VisualGraph`: this folder contains the Graph of our model.
 * `code`: this folder contains the source code.
-* `results`: this folder contains the performance scores of the runs.
+* `results`: this folder contains the screenshots, and the saved results of the model.
 * `queries`: this folder contains GraphDB queries.
 * `slides`: this folder contains the slides used for presenting the conducted project.
 * `CSV: this foder contains the csv files of the dataset plus a folder inside called `output` which in turn contains the files resulted from the serialization process.
